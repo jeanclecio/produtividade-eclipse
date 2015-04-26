@@ -1,6 +1,6 @@
 package br.com.yaw.eclipse.model;
 /**
-* Classe modificada pelo GitHub
+* Classe modificada pelo GitHub by Jclecio
 */
 public class Teste {
 	
